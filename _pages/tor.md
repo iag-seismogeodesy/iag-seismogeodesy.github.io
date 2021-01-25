@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Subcommission 3.5 (Joint IAG-IASPEI) Terms of Reference"
-permalink: /tor
+permalink: /tor/
 author_profile: true
 ---
 
