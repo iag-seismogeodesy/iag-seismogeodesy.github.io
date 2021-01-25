@@ -5,12 +5,11 @@ permalink: /presentation/
 author_profile: true
 ---
 
-Seismogeodesy is a new subcommission under the joint umbrella of IAG and IASPEI.
+Seismogeodesy is a new subcommission under the joint umbrella of the [International Association of Geodesy (IAG)](https://www.iag-aig.org/) and the [International Association of Seismology and Physics of the Earth's Interior (IASPEI)](http://www.iaspei.org/).
 
-See the [terms of reference](/presentation/tor/) for a full description of the subcommission objectives.
+It is chaired by Jean-Mathieu Nocquet (Université Côte D’Azur, IRD, CNRS, OCA & Institut de Physique du Globe de Paris) and vie-chaired by Takuya Nishimura (Kyoto University, Uji, Japan).
 
-
-It aims at:
+The seismogeodesy commission aims at:
 
 * actively encourage the cooperation between all geoscientists studying the plate boundary deformation zones, by promoting the exploitation of synergies between different fields;
 
@@ -30,4 +29,6 @@ It aims at:
 
 * to facilitate and stimulate the integrated exploitation of large geodetic and seismological data sets, using Machine Learning and Data Mining approaches
 
-It is part of commission 3 [Commission 3: Earth Rotation and Geodynamics](https://com3.iag-aig.org/)
+The Seismogeodesy subcommission is part of [IAG Commission 3: Earth Rotation and Geodynamics](https://com3.iag-aig.org/) and [IASPEI commission on earthquake source mechanics](http://www.iaspei.org/commissions/commission-on-earthquake-source-mechanics)
+
+See the [terms of reference]({% presentation/tor.md %}) for a full description of the subcommission objectives.
