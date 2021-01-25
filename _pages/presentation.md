@@ -31,4 +31,4 @@ The seismogeodesy commission aims at:
 
 The Seismogeodesy subcommission is part of [IAG Commission 3: Earth Rotation and Geodynamics](https://com3.iag-aig.org/) and [IASPEI commission on earthquake source mechanics](http://www.iaspei.org/commissions/commission-on-earthquake-source-mechanics)
 
-See the [terms of reference]({% presentation/tor.md %}) for a full description of the subcommission objectives.
+See the [terms of reference]({% tor.md %}) for a full description of the subcommission objectives.
